@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "315624919837",
+    "project_id": "elshaima-7b3c6",
+    "storage_bucket": "elshaima-7b3c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315624919837:android:16cb008c009271653b47f4",
+        "android_client_info": {
+          "package_name": "com.example.elshaima"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "315624919837-jov1qss7011n1dat227nd3or2lgvic9m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.elshaima",
+            "certificate_hash": "3b62d1cb6e48e0c0ed2e075e0d4abb7dd506115e"
+          }
+        },
+        {
+          "client_id": "315624919837-q93qfspg3bs7ndkdnoes0vc8uk7hrfg3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPmtBckIY81t0X5ovceS3RzPUHPE7iJ5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "315624919837-q93qfspg3bs7ndkdnoes0vc8uk7hrfg3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
